@@ -1,0 +1,22 @@
+{
+  "name": "youtube-client",
+  "version": "1.0.0",
+  "description": "A Youtube client implementing the youtube API",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephtesla/youtube-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephtesla/youtube-client/issues"
+  },
+  "homepage": "https://josephtesla.github.io/youtube-client", 
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
